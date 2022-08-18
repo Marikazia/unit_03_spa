@@ -8,6 +8,11 @@ function Header(props) {
 		<>
 			<ul>
 				{listItem}
+				{/* <ul>
+					<li><NavLink to="/">Главная</NavLink></li>
+					<li><NavLink to="/about">O сайте</NavLink></li>
+					<li><NavLink to="/cat">Категории</NavLink></li>
+				</ul> */}
 			</ul>
 		</>
   );
