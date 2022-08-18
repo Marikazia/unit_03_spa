@@ -9,7 +9,6 @@ function Category(props) {
 
 	return (
 		<>
-
 			<h1>Category</h1>
 			<ul>
 				{listItem}
